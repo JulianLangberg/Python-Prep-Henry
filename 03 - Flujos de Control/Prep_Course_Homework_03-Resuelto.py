@@ -146,7 +146,8 @@ while (n < tope_rango):
     n += 1
 
 
-# 11) En los puntos 9 y 10, se diseño un código que encuentra números primos y además se lo optimizó. ¿Es posible saber en qué medida se optimizó?
+# 11) En los puntos 9 y 10, se diseño un código que encuentra números 
+# primos y además se lo optimizó. ¿Es posible saber en qué medida se optimizó?
 
 # In[56]:
 
